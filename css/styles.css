@@ -863,6 +863,8 @@ img{display: block;}
 }
 .all-div-subscribe-class{
     display: flex;
+    gap: 24px;
+    
     /* justify-items: end; */
     /* align-items:flex-end ; */
 
