@@ -841,7 +841,7 @@ img{display: block;}
     min-width: 165px;
     height: 40px;
     border: none;
-    border: 1px solid #FFFFFF;
+    /* border: 1px solid #FFFFFF; */
     border-radius: 4px;
     color: #FFFFFF;
     background-color: var(--portfolio-filter-color);
