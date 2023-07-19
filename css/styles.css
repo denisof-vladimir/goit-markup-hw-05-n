@@ -793,9 +793,10 @@ fill: #4D5AE5;
 }
 .modal-zgoda {
     margin-bottom: 24px;
+    display: flex;
 }
 .label-zgoda{
-    display: flex;
+    /* display: flex; */
     align-items: center;
     font-size: 12px;
     line-height: 1.17;
@@ -921,11 +922,11 @@ fill: #4D5AE5;
 .user-email-label{}
 
 .check-icon{
+    display: inline-flex;
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
-    display: inline-flex;
     align-items: center;
     justify-content: center;
     fill: transparent;
@@ -933,7 +934,7 @@ fill: #4D5AE5;
                 border 250ms cubic-bezier(0.4, 0, 0.2, 1), 
                 fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.Privacy-class{
+.privacy-class{
     color: var(--portfolio-filter-color);
 }
 .submit-modal{
