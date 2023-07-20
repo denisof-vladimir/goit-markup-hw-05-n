@@ -796,7 +796,7 @@ fill: #4D5AE5;
     display: flex;
 }
 .label-zgoda{
-    /* display: flex; */
+    display: flex;
     align-items: center;
     font-size: 12px;
     line-height: 1.17;
