@@ -796,7 +796,7 @@ fill: #4D5AE5;
     display: flex;
 }
 .label-zgoda{
-    display: flex;
+    /* display: flex; */
     align-items: center;
     font-size: 12px;
     line-height: 1.17;
@@ -804,7 +804,7 @@ fill: #4D5AE5;
     color: var(--color-label-backdrop);
 
 }
-.label-zgoda span{
+/* .label-zgoda span{
     /* display: block; */
     width: 16px;
     height: 16px;
@@ -816,7 +816,7 @@ fill: #4D5AE5;
     align-items: center;
     justify-content: center;
     fill: transparent;
-}
+} */
 .input-zgoda{
     border: 1px solid #2E2F42;
     border-radius: 2px;
