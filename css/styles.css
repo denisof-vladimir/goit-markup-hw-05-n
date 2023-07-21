@@ -953,7 +953,7 @@ fill: #4D5AE5;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    background-color: var(--color-focus-blu);
+    background-color:var(--portfolio-filter-color);
     border: none;
     border-radius: 4px;
     transition: background-color 250ms var(--timing-function);
@@ -961,5 +961,5 @@ fill: #4D5AE5;
 }
 .submit-modal:hover,
 .submit-modal:focus {
-    background-color: var(--portfolio-filter-color);
+    background-color: var(--color-focus-blu);
 }
